@@ -10,5 +10,9 @@
 - Hit on browser `http://localhost:8080/?queryParam=apple%20or%20banana`
 - It will also call script.jl file and for that julia should also be installed
 
+## Browser Preview
+![browser_output](https://user-images.githubusercontent.com/53787290/189474636-22317805-2dfe-4469-9c08-caa0ad116807.PNG)
 
+
+## Working Principal
 ![woking_Principal](https://user-images.githubusercontent.com/53787290/189474537-0e8b999e-4b41-452b-bcab-39cac64bd962.PNG)
